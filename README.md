@@ -2,6 +2,8 @@
 
 Python 3.9+ / FastAPI, in-memory accounts, and a standard-library CLI client.
 
+by Garrett Jones, Oct 2026
+
 ## Run locally
 
 ```sh
